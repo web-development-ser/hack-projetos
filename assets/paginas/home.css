@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend&display=swap');
+@font-face {
+  font-family: 'MontserratAlt1-Bold';
+  src: url(../fonts/ttf/MontserratAlt1-Medium.ttf);
+}
+.navbar-brand {
+    font-family: 'MontserratAlt1-Bold';
+    font-size: 27px;
+    font-weight: bold;
+}
+.navbar-brand {
+    color: silver;
+
+    margin-left: 1rem 0.9rem 0.9 0;
+}
+.navbar-brand:hover {
+    color: silver;
+}
+.nav-item {
+    font-size: 18px;
+    font-family: 'Lexend', sans-serif;
+}
+.nav-link {
+    color: silver;
+}
+.nav-link:hover {
+    color: silver;
+    border-bottom-width: 3px;
+    border-bottom-style: solid;
+    border-bottom-color: silver;
+    transition: 0.3s;
+}
+.navbar {
+    background: linear-gradient(210deg, #302b63, #24243e);
+}
+
+flex-shrink-1 {
+    width: 1.2rem;
+}
+
+.d-flex h2 {
+   background-color: #24243e;
+   padding: 0.3rem;
+   font-family: 'MontserratAlt1-Bold';
+}
+
+.d-flex {
+    background: linear-gradient(210deg, #302b63, #24243e);
+    color: silver;
+}
+span {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 17px;
+}
+.p-2 {
+    font-size: 19px;
+    font-family: 'Lexend', sans-serif;
+}

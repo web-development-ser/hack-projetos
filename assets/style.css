@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend&display=swap');
+@font-face {
+  font-family: 'MontserratAlt1-Bold';
+  src: url(./fonts/ttf/MontserratAlt1-Medium.ttf);
+}
+
+header {
+  /*background-color: #302b63;*/
+  background: linear-gradient(210deg, #302b63, #24243e);
+  height: 100vh;
+}
+.text-name {
+  font-family: 'MontserratAlt1-Bold';
+  font-size: 37px;
+  font-weight: bold;
+}
+.form-dados {
+  /*background-color: #040405;*/
+  background: linear-gradient(210deg, #302b63, #24243e);
+  color: silver;
+}
+label {
+  font-size: 18px;
+  font-family: 'Lexend', sans-serif;
+}
+.rem {
+  color: silver;
+  text-decoration: none;
+  font-family: 'Lexend', sans-serif;
+  font-weight: bold;
+}

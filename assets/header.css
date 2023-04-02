@@ -1,0 +1,14 @@
+
+.container-one {
+    display: flex;
+    justify-content: center;
+
+    position: relative;
+    top: 25vh;
+}
+.form-dados {
+    padding: 2rem 2rem;
+    border: silver 4px solid;
+    border-radius: 2rem;
+    width: 57vh;
+}
